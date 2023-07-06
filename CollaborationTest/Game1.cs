@@ -67,7 +67,12 @@ namespace CollaborationTest
 
 		protected override void Draw(GameTime gameTime)
 		{
+<<<<<<< HEAD
 			GraphicsDevice.Clear(Color.Yellow);
+=======
+			// This makes the game green! (DON@T DELETE THIS COMMENT ROSSS!!)
+			GraphicsDevice.Clear(Color.Yellow);
+>>>>>>> 37ff5c52f965ba24d5d5b28e9e80cdaf9044050e
 
 			_spriteBatch.Begin();
 			_spriteBatch.Draw(mIcon, mPos, Color.White);
