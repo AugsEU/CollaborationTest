@@ -6,7 +6,7 @@ namespace CollaborationTest
 {
 	public class Game1 : Game
 	{
-		const float SPEED = 100.0f;
+		const float SPEED = 500.0f;
 		private GraphicsDeviceManager _graphics;
 		private SpriteBatch _spriteBatch;
 
