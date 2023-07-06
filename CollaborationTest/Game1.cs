@@ -67,7 +67,7 @@ namespace CollaborationTest
 
 		protected override void Draw(GameTime gameTime)
 		{
-			GraphicsDevice.Clear(Color.DarkGreen);
+			GraphicsDevice.Clear(Color.Pink);
 
 			_spriteBatch.Begin();
 			_spriteBatch.Draw(mIcon, mPos, Color.White);
